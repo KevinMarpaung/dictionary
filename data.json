@@ -1,0 +1,9 @@
+INSERT INTO Kata (kata_batak, arti, contoh_kalimat_batak, contoh_kalimat_indonesia)
+VALUES
+("abara","pundak","di abara nai do dibaen siboanon nai","dipundaknya itulah ditaruh bawaanya itu"),
+("diabarai","dipundak","boasa diabarai ndang tumangon dihunti","mengapa dipundak tidakkah lebih baik dijunjung"),
+("mangabarai","membawa dengan menaruh di pundak","ndang somal borua mamboan siboanon mangabarai","tidaklah biasa seorang wanita membawa sesuatu dengan memundak"),
+("abat","kendala (rintangan)","sai dao ma  abat sian hamu di pardalanan","semoga kamu tidak mendapat rintangan di perjalanan"),
+("abing","pangku","abing ma jolo anakmi asa pasusu","pangkulah dulu anakmu supaya kamu susui"),
+("abingan","pangkuan","di abingan ni inana i do imana modom","dipangkuan ibunya itulah dia tidur");
+
